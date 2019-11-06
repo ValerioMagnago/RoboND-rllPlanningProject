@@ -1,9 +1,7 @@
-[submodule "RoboND-rllPlanningProject"]
-	path = RoboND-rllPlanningProject
-	url = https://github.com/ValerioMa/RoboND-rllPlanningProject.git
 [submodule "rll_sdk"]
 	path = rll_sdk
 	url = https://github.com/KITrobotics/rll_sdk.git
 [submodule "rll_path_planning_project"]
 	path = rll_path_planning_project
 	url = https://github.com/ValerioMa/rll_path_planning_project.git
+
